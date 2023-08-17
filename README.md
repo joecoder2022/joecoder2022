@@ -1,7 +1,5 @@
 - 👋 Hi, I’m joecoder
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++ and Linux 👨🏽‍💻
-- 💞️ I’m looking to collaborate on promming 
+
 
 
 <!---
